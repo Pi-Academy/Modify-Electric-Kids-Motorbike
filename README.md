@@ -3,8 +3,6 @@ We converted our sons 6v "ride on motorcycle" to run a 12v battery to make it fa
 
 [![asciicast](https://img.youtube.com/vi/8pGsyZsfEvg/hqdefault.jpg)](https://youtu.be/8pGsyZsfEvg)
 
-<video src='1.mp4' width=180/>
-
-<video src='3.mp4' width=180/>
+[<img src="https://img.youtube.com/vi/8pGsyZsfEvg/hqdefault.jpg" width="50%">](https://youtu.be/8pGsyZsfEvg)
 
 ![Screenshot](PiMotorbikeSchematic.png)
