@@ -3,4 +3,4 @@ We converted our sons 6v "ride on motorcycle" to run a 12v battery to make it fa
 https://youtu.be/8pGsyZsfEvg
 
 
-![alt tag](https://github.com/Pi-Academy/Modify-Electric-Kids-Motorbike/PiMotorbikeSchematic.png)
+![Screenshot](PiMotorbikeSchematic.png)
